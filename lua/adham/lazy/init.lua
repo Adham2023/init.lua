@@ -6,5 +6,6 @@ return {
     },
 
     "eandrju/cellular-automaton.nvim",
+    "nvim-neotest/nvim-nio"
 }
 
