@@ -34,6 +34,10 @@ return {
                 "lua_ls",
                 "rust_analyzer",
                 "gopls",
+                "ts_ls",
+                "ruby_lsp",
+                "volar",
+                "tailwindcss"
             },
             handlers = {
                 function(server_name) -- default handler (optional)
